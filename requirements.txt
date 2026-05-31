@@ -1,0 +1,4 @@
+# Dependencies for the host-side MCP bridge (mcp_kali_client.py).
+# The Kali side uses the native `mcp-kali-server` apt package, not these.
+requests>=2.31.0
+mcp>=1.0.0
